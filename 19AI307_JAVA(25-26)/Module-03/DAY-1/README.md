@@ -53,8 +53,8 @@ To build an inheritance-based Java program that calculates the final price of go
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: SRILAKSHMI BH
-RegisterNumber: 212224100057
+Developed by: AJMAL ALI S
+RegisterNumber: 212224100003
 */
 ```
 
