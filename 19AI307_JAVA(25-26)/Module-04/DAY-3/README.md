@@ -35,8 +35,8 @@ To write a Java program demonstrating aggregation, where a Department contains m
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: SRILAKSHMI BH
-RegisterNumber: 212224100057
+Developed by: AJMAL ALI S
+RegisterNumber: 212224100003
 */
 ```
 
