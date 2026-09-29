@@ -42,8 +42,8 @@ To create an abstract class Decoder with an abstract method decodeMessage(), and
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: SRILAKSHMI BH
-RegisterNumber: 212224100057
+Developed by: AJMAL ALI S
+RegisterNumber: 212224100003
 */
 ```
 
