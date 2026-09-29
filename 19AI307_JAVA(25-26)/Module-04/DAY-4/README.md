@@ -40,8 +40,8 @@ To develop a Java program that uses the Factory Pattern to generate different ty
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: SRILAKSHMI BH
-RegisterNumber: 212224100057
+Developed by: AJMAL ALI S
+RegisterNumber: 212224100003
 */
 ```
 
