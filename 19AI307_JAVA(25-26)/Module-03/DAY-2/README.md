@@ -27,8 +27,8 @@ To create a Java program demonstrating method overriding by defining a base clas
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: SRILAKSHMI BH
-RegisterNumber: 212224100057
+Developed by: AJMAL ALI S 
+RegisterNumber: 212224100003
 */
 ```
 
