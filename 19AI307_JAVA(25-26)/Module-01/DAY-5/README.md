@@ -24,8 +24,8 @@ To write a Java program that finds the absolute value of a given number using th
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: SRILAKSHMI BH
-RegisterNumber: 212224100057
+Developed by: AJMAL ALI S
+RegisterNumber: 212224100003
 */
 ```
 
