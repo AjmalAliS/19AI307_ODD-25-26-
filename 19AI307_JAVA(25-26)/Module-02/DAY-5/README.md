@@ -33,8 +33,8 @@ To create an Employee class where the display() method returns the current objec
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: SRILAKSHMI BH
-RegisterNumber: 212224100057
+Developed by: AJMAL ALI S
+RegisterNumber: 212224100003
 */
 ```
 
