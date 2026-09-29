@@ -36,8 +36,8 @@ To simulate an airport radar communication system using the Singleton pattern, e
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: SRILAKSHMI BH
-RegisterNumber: 212224100057
+Developed by: AJMAL ALI S 
+RegisterNumber: 212224100003
 */
 ```
 
